@@ -10,9 +10,9 @@
 </h4>
 
 ## Features
-- [x] Cadastro de usuário
-- [x] Cadastro de cliente
-- [X] Cadastro de Terapias
+- [ ] Cadastro de usuário
+- [ ] Cadastro de cliente
+- [ ] Cadastro de Terapias
 
 <h1 align="center">
   <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/alexandrecrudi/projeto_espaco/blob/main/gestao_terapeutico/screenshot/screenshot1.PNG" />
