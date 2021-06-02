@@ -15,5 +15,5 @@
 - [X] Cadastro de Terapias
 
 <h1 align="center">
-  <img alt="NextLevelWeek" title="#NextLevelWeek" src="/screenshot/screenshot1.png" />
+  <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://github.com/alexandrecrudi/projeto_espaco/blob/main/gestao_terapeutico/screenshot/screenshot1.PNG" />
 </h1>
